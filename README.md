@@ -109,16 +109,7 @@ Implementar a retransmissão de chamadas envolve o uso de serviços como VoIP e 
 3. Interface do Usuário: Melhore a interface do usuário usando Material Design.
 
 
-4. Segurança: Revise as regras de segurança do Firebase e implemente autenticação.
-
-
-
-8. Conclusão
-
-Com essas etapas, você terá um aplicativo Android integrado com funcionalidades de chat, backup de dados e monitoramento. O projeto pode ser expandido com novas funcionalidades à medida que avança no desenvolvimento.
-
-Caso precise de mais ajuda ou detalhes específicos sobre alguma funcionalidade, estou à disposição!
-
+4. Segurança: Revisarei as regras de segurança do Firebase e implementarei autenticações.
 
 ---
 
