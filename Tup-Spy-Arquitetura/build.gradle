@@ -12,3 +12,4 @@ buildscript {
         classpath 'com.google.gms:google-services:4.3.10' // Versão mais recente
     }
 }
+apply plugin: 'com.google.gms.google-services'
