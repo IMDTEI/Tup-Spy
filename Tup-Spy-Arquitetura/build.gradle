@@ -6,3 +6,9 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.2.1'
     implementation 'com.google.android.gms:play-services-auth:19.2.0'
 }
+buildscript {
+    dependencies {
+        // Outros plugins
+        classpath 'com.google.gms:google-services:4.3.10' // Versão mais recente
+    }
+}
